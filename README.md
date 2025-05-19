@@ -1,10 +1,8 @@
-# PETUNJUK PENGERJAAN
+# Informasi
 
-- Clone repo ini
-- Kerjakan soal sesuai dengan praktikum yang kamu lakukan (e.g p1 untuk praktikum 1) langsung isi di filenya
-- Jika sudah jangan lupa push hasilnya ke github repo pribadi kamu (push modulnya saja misal folder P1)
-- berikan nama reponya proglan-pX-NRP
-- Kasih ke aku linknya via wa h-1 sebelum asistensi (1 kelompok 1 perwakilan memberikan 4 link)
-- Di modul tugas asistensi, jelaskan saja programnya dan berikan source code beserta ss outputnya.
+- Tugas Asistensi
+- Dibuat oleh Darren.
+- Penjelasan setiap soal ada di README.MD masing-masing.
 
-### beyBLOOD
+
+### Darren Dexter Thio / 5024241006
